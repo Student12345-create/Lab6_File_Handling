@@ -1,0 +1,5 @@
+Student: Lorilla
+Student ID: TUPM-26-1923
+Seed digit: 3
+ID sum: 23
+Verification value: 164

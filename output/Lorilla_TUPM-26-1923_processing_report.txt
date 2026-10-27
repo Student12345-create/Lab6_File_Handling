@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Lorilla
+Student ID: TUPM-26-1923
+Seed Digit: 3
+ID Sum: 23
+Verification Value: 164
+Dataset Sample Size: 73
+Valid Records: 73
+Average Global Active Power: 4.050
+JSON File: Lorilla_TUPM-26-1923_record.json
+Backup File: Lorilla_TUPM-26-1923_record.csv
